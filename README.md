@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/diogobruno91?style=social)
 
 ### About me
-I'm a Web Developer 💻
+I'm a Software Developer 💻
 
 - 🏠 I live in São Paulo, Brazil.
 - 🎓 I am graduated in Analysis Systems Development.
